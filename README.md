@@ -63,7 +63,7 @@ The fine-tuned model became better at following the target markdown structure. I
 - `data/train.jsonl` — training dataset
 - `data/eval.jsonl` — evaluation dataset
 - `outputs/markdown-style-adapter/` — saved LoRA adapter
-- `reports/loss_curve.png` — training loss curve
+- `reports/loss_curve.jpg` — training loss curve
 - `reports/eval_results.json` — evaluation metrics
 - `reports/examples_comparison.md` — base vs fine-tuned model examples
 
