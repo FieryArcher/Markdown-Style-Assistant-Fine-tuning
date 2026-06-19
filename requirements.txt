@@ -1,0 +1,11 @@
+transformers
+datasets
+peft
+accelerate
+bitsandbytes
+evaluate
+rouge_score
+wandb
+scikit-learn
+matplotlib
+torch
